@@ -1,4 +1,5 @@
 #!/bin/bash
+# REV05: Wed 02 Jun 2021 09:07:44 WIB
 # REV04: Sat Oct 31 21:08:36 WIB 2020
 # REV03: Thu Oct 22 08:56:05 WIB 2020
 # REV02: Fri Feb  1 14:14:42 WIB 2019
@@ -28,7 +29,9 @@ ls -R > ${README}.txt
 
 for II in \
     ${README}.txt \
-    PP \
+    KEPPRES       \
+    PERPRES       \
+    PP            \
 ; do
     [ -d $II ] && mkidx $II
 done

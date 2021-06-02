@@ -14,6 +14,7 @@ README.md
 _site
 
 ./KEPPRES:
+index.md
 KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
 
 ./_layouts:
@@ -34,6 +35,7 @@ PP-2021-064-BADAN-BANK-TANAH.pdf
 assets
 favicon.ico
 index.html
+KEPPRES
 LICENSE
 PERPRES
 PP
@@ -52,6 +54,10 @@ style.css
 bkg.png
 blacktocat.png
 bullet.png
+
+./_site/KEPPRES:
+index.html
+KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
 
 ./_site/PERPRES:
 index.html

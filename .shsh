@@ -29,6 +29,7 @@ ls -R > ${README}.txt
 
 for II in \
     ${README}.txt \
+    IDX           \
     KEPPRES       \
     PERPRES       \
     PP            \

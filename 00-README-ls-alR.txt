@@ -4,6 +4,7 @@ _config.yml
 favicon.ico
 Gemfile
 Gemfile.lock
+IDX
 index.md
 KEPPRES
 _layouts
@@ -12,6 +13,10 @@ PERPRES
 PP
 README.md
 _site
+
+./IDX:
+index.md
+SEIDX-2021-013-Tampilan-Informasi-Perusahaan-Tercatat-pada-Kolom-Remarks-dalam-JATS.pdf
 
 ./KEPPRES:
 index.md

@@ -39,6 +39,7 @@ PP-2021-064-BADAN-BANK-TANAH.pdf
 00-README-ls-alR.txt
 assets
 favicon.ico
+IDX
 index.html
 KEPPRES
 LICENSE
@@ -59,6 +60,10 @@ style.css
 bkg.png
 blacktocat.png
 bullet.png
+
+./_site/IDX:
+index.html
+SEIDX-2021-013-Tampilan-Informasi-Perusahaan-Tercatat-pada-Kolom-Remarks-dalam-JATS.pdf
 
 ./_site/KEPPRES:
 index.html

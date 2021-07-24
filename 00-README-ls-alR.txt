@@ -3,7 +3,6 @@
 _config.yml
 favicon.ico
 Gemfile
-Gemfile.lock
 IDX
 index.md
 KEPPRES

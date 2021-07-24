@@ -1,0 +1,4 @@
+---
+layout: "urls"
+---
+* [rektor](rektor/)

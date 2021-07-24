@@ -14,6 +14,7 @@ PERPRES
 PP
 README.md
 _site
+UI
 
 ./IDX:
 index.md
@@ -45,11 +46,13 @@ IDX
 index.html
 KEPPRES
 LICENSE
+Makefile
 PERPRES
 PP
 README.md
 robots.txt
 sitemap.xml
+UI
 
 ./_site/assets:
 css
@@ -80,3 +83,22 @@ index.html
 PP-2021-056-PENGELOLAAN-ROYALTI-HAK-CIPTA-LAGU-DAN-ATAU-MUSIK.pdf
 PP-2021-057-STANDAR-NASIONAL-PENDIDIKAN.pdf
 PP-2021-064-BADAN-BANK-TANAH.pdf
+PP-2021-075-Statuta-Universitas-Indonesia.pdf
+
+./_site/UI:
+index.html
+rektor
+
+./_site/UI/rektor:
+index.html
+UI-SKR-2020-0496-Pengangkatan-Tim-Gabungan-4-Organ-untuk-Revisi-Statuta-UI.pdf
+UI-SKR-2020-1281-Tim-Revisi-Statuta-UI.pdf
+
+./UI:
+index.md
+rektor
+
+./UI/rektor:
+index.md
+UI-SKR-2020-0496-Pengangkatan-Tim-Gabungan-4-Organ-untuk-Revisi-Statuta-UI.pdf
+UI-SKR-2020-1281-Tim-Revisi-Statuta-UI.pdf

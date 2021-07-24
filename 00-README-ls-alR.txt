@@ -9,6 +9,7 @@ index.md
 KEPPRES
 _layouts
 LICENSE
+Makefile
 PERPRES
 PP
 README.md
@@ -34,6 +35,7 @@ index.md
 PP-2021-056-PENGELOLAAN-ROYALTI-HAK-CIPTA-LAGU-DAN-ATAU-MUSIK.pdf
 PP-2021-057-STANDAR-NASIONAL-PENDIDIKAN.pdf
 PP-2021-064-BADAN-BANK-TANAH.pdf
+PP-2021-075-Statuta-Universitas-Indonesia.pdf
 
 ./_site:
 00-README-ls-alR.txt

@@ -48,7 +48,9 @@ for II in \
     INPRES        \
     KEPMEN        \
     KEPMENKO      \
+    KEPSESMENKO   \
     KEPPRES       \
+    MK            \
     PERPRES       \
     PP            \
     UI            \

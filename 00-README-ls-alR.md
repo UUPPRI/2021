@@ -21,9 +21,11 @@ INPRES
 KEPMEN
 KEPMENKO
 KEPPRES
+KEPSESMENKO
 _layouts
 LICENSE
 Makefile
+MK
 PERPRES
 PP
 README.md
@@ -60,7 +62,9 @@ footer.html
 google-analytics.html
 head.html
 inc001.html
+navbar-bottom.html
 navbar.html
+navbar-top.html
 scripts.html
 
 ./INPRES:
@@ -98,17 +102,25 @@ index.md
 index.md
 
 ./KEPMENKO:
+index.md
 MARVES
 
 ./KEPMENKO/MARVES:
+index.md
 
 ./KEPPRES:
 index.md
 KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
 
+./KEPSESMENKO:
+index.md
+
 ./_layouts:
 layout.html
 urls.html
+
+./MK:
+index.md
 
 ./PERPRES:
 index.md
@@ -133,9 +145,12 @@ IDX
 index.html
 INPRES
 KEPMEN
+KEPMENKO
 KEPPRES
+KEPSESMENKO
 LICENSE
 Makefile
+MK
 PERPRES
 PP
 README.html
@@ -201,9 +216,22 @@ index.html
 ./_site/KEPMEN/SESNEG:
 index.html
 
+./_site/KEPMENKO:
+index.html
+MARVES
+
+./_site/KEPMENKO/MARVES:
+index.html
+
 ./_site/KEPPRES:
 index.html
 KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
+
+./_site/KEPSESMENKO:
+index.html
+
+./_site/MK:
+index.html
 
 ./_site/PERPRES:
 index.html

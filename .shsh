@@ -51,7 +51,10 @@ for II in \
     KEPSESMENKO   \
     KEPPRES       \
     MK            \
+    MPR           \
     PERPRES       \
+    PERDA         \
+    PERKA         \
     PP            \
     UI            \
 ; do

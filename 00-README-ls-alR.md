@@ -26,6 +26,9 @@ _layouts
 LICENSE
 Makefile
 MK
+MPR
+PERDA
+PERKA
 PERPRES
 PP
 README.md
@@ -122,6 +125,14 @@ urls.html
 ./MK:
 index.md
 
+./MPR:
+index.md
+
+./PERDA:
+index.md
+
+./PERKA:
+
 ./PERPRES:
 index.md
 PERPRES-2021-028-BADAN-SIBER-DAN-SANDI-NEGARA.pdf
@@ -151,6 +162,8 @@ KEPSESMENKO
 LICENSE
 Makefile
 MK
+MPR
+PERDA
 PERPRES
 PP
 README.html
@@ -231,6 +244,12 @@ KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
 index.html
 
 ./_site/MK:
+index.html
+
+./_site/MPR:
+index.html
+
+./_site/PERDA:
 index.html
 
 ./_site/PERPRES:

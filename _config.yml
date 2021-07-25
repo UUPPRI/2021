@@ -13,7 +13,7 @@ disc: You are free to share, copy and redistribute the material of this site
 show_downloads: false
 sitemap: true
 author:           "Abu A. Al-Kulunia"
-address:          "Schiller Sht. 69, Cologne 50859"
+address:          "Cologne 50859"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap

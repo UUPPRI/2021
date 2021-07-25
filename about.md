@@ -3,19 +3,11 @@ layout: "layout"
 permalink: /ABOUT/
 ---
 
-# About
-
-This is a GitHub Page template on GitHub.
-Fill free to clone/fork/hijack/whatever it!
-* GitHub Page: <{{ site.urlweb }}>
-* GitHub: <{{ site.urlgithub }}>
-* [TARBALL]('{{ site.baseurl }}//template.tar.bz2')
-
 <br>
 # Contact
 
-Yada... yada... yada... visit [GitHub]({{ site.urlgithub }}).
+Really? Well... you might contact [RMS46](https://rahmatm.samik-ibrahim.vlsm.org/2021/01/how-to-contact-rahmat-m-samik-ibrahim.html).
 
-<br>
-# Qapla!
+* GitHub Page: <{{ site.urlweb }}>
+* GitHub: <{{ site.urlgithub }}>
 

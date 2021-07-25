@@ -1,5 +1,7 @@
 title: Himpunan Peraturan NKRI 2021
-description: (V010-20210725) Himpunan Peraturan NKRI 2021.
+version:     "0011--25-Jul-2021"
+copyright:   "2021-2021"
+description: Himpunan Peraturan NKRI 2021.
       This site is managed by VauLSMorg (vlsm.org) since 2021.
 google_analytics: UA-89852122-7
 disc: You are free to share, copy and redistribute the material of this site 
@@ -19,10 +21,21 @@ social:
   name: URLs
   links:
     - https://https://github.com/rms46/uuri
-
 # github:
 #    zip_url: https://github.com/...
 #    tar_url: https://github.com/...
-
 github: [metadata]
+
+author:           "Abu Akbar Al-Kulunia
+address:          "Schiller Str., Cologne 50859"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://uuppri.github.io/2021/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/UUPPRI/2021/"
+urlghpage:        "https://uuppri.github.io/2021/"
+keywords:         "jekyll, testing"
+github:           [metadata]
 

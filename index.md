@@ -1,8 +1,12 @@
 ---
-layout: "urls"
+layout: "layout"
 ---
 
-| [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/)     | [00-README-ls-alR.txt](00-README-ls-alR.txt)    | [IDX --- Indonesia Stock Exchange 2021](IDX/) |
-| [KEPPRES --- Keputusan Presiden 2021](KEPPRES/)       | [PERPRES --- Peraturan Presiden 2021](PERPRES/) | [PP --- Peraturan Pemerintah 2021](PP/) |
-| [UI --- Universitas Indonesia 2021](UI/) |
+<br>
+# 2021
+
+|             | [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/) ||                     | [00-README-ls-alR.txt](00-README-ls-alR.txt) |
+| [IDX](IDX/)         | [Indonesia Stock Exchange](IDX/)          || [KEPPRES](KEPRESS/) | [Keputusan Presiden](KEPPRES/) |
+| [PERPRES](PERPRES/) | [Peraturan Presiden](PERPRES/)            || [PP](PP/)           | [Peraturan Pemerintah](PP/)|
+| [UI](UI/)           | [Universitas Indonesia](UI/)              ||
 

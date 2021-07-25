@@ -15,7 +15,7 @@ Himpunan / Kumpulan Peraturan Negara Kesatuan Republik Indonesia (NKRI): Undang 
 | [MPR](MPR/)             | [Majelis Permusyawatan Rakyat](MPR/) || [PERDA](PERDA/)             | [Peraturan Daerah](PERDA/) |
 | [PERKA](PERKA/)             | [Peraturan Kepala](PERKA/)       || [PERMEN](PERMEN/)           | [Peraturan Menteri](PERMEN/) |
 | [PERMENKO](PERMENKO/)       | [PerMen. Koordinator](PERMENKO/) || [PERPRES](PERPRES/)         | [Peraturan Presiden](PERPRES/)   |
-| [PERPU](PERPU/)             |                                  || [PNPS](PNPS/)               | |
-| [PP](PP/)                   | [Peraturan Pemerintah](PP/)      || [SKB](SKB/)                 | |
-| [UI](UI/)                   | [Universitas Indonesia](UI/)     || [UU](UU/)                   | |
+| [PERPU](PERPU/)       | [Per. Pengganti Undang-Undang](PERPU/) || [PNPS](PNPS/)               | [Penetapan Presiden](PNPS/) |
+| [PP](PP/)                   | [Peraturan Pemerintah](PP/)      || [SKB](SKB/)                 | [SK Bersama](SKB/) |
+| [UI](UI/)                   | [Universitas Indonesia](UI/)     || [UU](UU/)                   | [Undang-Undang](UU/) |
 

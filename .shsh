@@ -56,8 +56,13 @@ for II in \
     PERDA         \
     PERKA         \
     PERMEN        \
+    PERMENKO      \
+    PERPU         \
+    PNPS          \
     PP            \
+    SKB           \
     UI            \
+    UU            \
 ; do
     [ -d $II ] && mkidx $II
 done

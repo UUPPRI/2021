@@ -26,10 +26,23 @@ function mkidx {
 }
 
 README="00-README-ls-alR"
-ls -R > ${README}.txt
+cat > ${README}.md << EOF
+---
+layout: \"layout\"
+---
+
+<br>
+# 2021
+\`\`\`
+EOF
+ls -R >> ${README}.md
+cat   >> ${README}.md << EOF
+\`\`\`
+EOF
+
 
 for II in \
-    ${README}.txt \
+    ${README}.md \
     IDX           \
     KEPPRES       \
     PERPRES       \

@@ -93,7 +93,7 @@ LINKS
 Makefile
 PERPRES
 PP
-README.md
+README.html
 robots.txt
 sitemap.xml
 TIPS

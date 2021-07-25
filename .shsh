@@ -28,7 +28,7 @@ function mkidx {
 README="00-README-ls-alR"
 cat > ${README}.md << EOF
 ---
-layout: \"layout\"
+layout: "layout"
 ---
 
 <br>

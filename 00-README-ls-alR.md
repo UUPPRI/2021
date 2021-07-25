@@ -1,5 +1,5 @@
 ---
-layout: \"layout\"
+layout: "layout"
 ---
 
 <br>
@@ -81,9 +81,7 @@ PP-2021-075-Statuta-Universitas-Indonesia.pdf
 ./SandBox:
 
 ./_site:
-000.html
-000.pmd
-00-README-ls-alR.txt
+00-README-ls-alR.html
 ABOUT
 assets
 favicon.ico

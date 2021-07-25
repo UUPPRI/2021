@@ -45,6 +45,7 @@ for II in \
     ${README}.md  \
     45UUD         \
     IDX           \
+    INPRES        \
     KEPPRES       \
     PERPRES       \
     PP            \

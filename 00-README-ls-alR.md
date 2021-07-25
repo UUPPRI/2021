@@ -17,6 +17,7 @@ Gemfile.lock
 IDX
 _includes
 index.md
+INPRES
 KEPPRES
 _layouts
 LICENSE
@@ -29,6 +30,7 @@ _site
 UI
 
 ./45UUD:
+index.md
 
 ./assets:
 css
@@ -59,6 +61,8 @@ inc001.html
 navbar.html
 scripts.html
 
+./INPRES:
+
 ./KEPPRES:
 index.md
 KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
@@ -82,6 +86,7 @@ PP-2021-075-Statuta-Universitas-Indonesia.pdf
 
 ./_site:
 00-README-ls-alR.html
+45UUD
 ABOUT
 assets
 favicon.ico
@@ -89,15 +94,16 @@ IDX
 index.html
 KEPPRES
 LICENSE
-LINKS
 Makefile
 PERPRES
 PP
 README.html
 robots.txt
 sitemap.xml
-TIPS
 UI
+
+./_site/45UUD:
+index.html
 
 ./_site/ABOUT:
 index.html
@@ -124,9 +130,6 @@ SEIDX-2021-013-Tampilan-Informasi-Perusahaan-Tercatat-pada-Kolom-Remarks-dalam-J
 index.html
 KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
 
-./_site/LINKS:
-index.html
-
 ./_site/PERPRES:
 index.html
 PERPRES-2021-028-BADAN-SIBER-DAN-SANDI-NEGARA.pdf
@@ -137,9 +140,6 @@ PP-2021-056-PENGELOLAAN-ROYALTI-HAK-CIPTA-LAGU-DAN-ATAU-MUSIK.pdf
 PP-2021-057-STANDAR-NASIONAL-PENDIDIKAN.pdf
 PP-2021-064-BADAN-BANK-TANAH.pdf
 PP-2021-075-Statuta-Universitas-Indonesia.pdf
-
-./_site/TIPS:
-index.html
 
 ./_site/UI:
 index.html

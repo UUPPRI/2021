@@ -18,6 +18,7 @@ IDX
 _includes
 index.md
 INPRES
+KEPMEN
 KEPPRES
 _layouts
 LICENSE
@@ -62,6 +63,30 @@ navbar.html
 scripts.html
 
 ./INPRES:
+index.md
+
+./KEPMEN:
+AGAMA
+DAGRI
+KEMNAKER
+LU
+POLHUKAM
+POLKAM
+SESNEG
+
+./KEPMEN/AGAMA:
+
+./KEPMEN/DAGRI:
+
+./KEPMEN/KEMNAKER:
+
+./KEPMEN/LU:
+
+./KEPMEN/POLHUKAM:
+
+./KEPMEN/POLKAM:
+
+./KEPMEN/SESNEG:
 
 ./KEPPRES:
 index.md
@@ -92,6 +117,7 @@ assets
 favicon.ico
 IDX
 index.html
+INPRES
 KEPPRES
 LICENSE
 Makefile
@@ -125,6 +151,9 @@ includeScript.py
 ./_site/IDX:
 index.html
 SEIDX-2021-013-Tampilan-Informasi-Perusahaan-Tercatat-pada-Kolom-Remarks-dalam-JATS.pdf
+
+./_site/INPRES:
+index.html
 
 ./_site/KEPPRES:
 index.html

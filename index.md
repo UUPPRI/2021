@@ -8,7 +8,7 @@ layout: "layout"
 Himpunan / Kumpulan Peraturan Negara Kesatuan Republik Indonesia (NKRI): Undang Undang Dasar 1945 (UUD 45), Undang Undang (UU), Peraturan Pemerintah Pengganti Undang-Undang (PERPU), Peraturan Pemerintah (PP), Peraturan Menteri (PERMEN), Peraturan Presiden (PERPRES), Surat Keputusan (SK), dan Peraturan Universitas Indonesia (UI).
 
 |             | [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/) ||                     | [00-README-ls-alR](00-README-ls-alR.md) |
-| [IDX](IDX/)         | [Indonesia Stock Exchange](IDX/)          || [KEPPRES](KEPRESS/) | [Keputusan Presiden](KEPPRES/) |
+| [IDX](IDX/)         | [Indonesia Stock Exchange](IDX/)          || [KEPPRES](KEPPRES/) | [Keputusan Presiden](KEPPRES/) |
 | [PERPRES](PERPRES/) | [Peraturan Presiden](PERPRES/)            || [PP](PP/)           | [Peraturan Pemerintah](PP/)|
 | [UI](UI/)           | [Universitas Indonesia](UI/)              ||
 

@@ -7,6 +7,7 @@ layout: "layout"
 ```
 .:
 00-README-ls-alR.md
+45UUD
 about.md
 assets
 _config.yml
@@ -19,16 +20,15 @@ index.md
 KEPPRES
 _layouts
 LICENSE
-links.md
 Makefile
 PERPRES
 PP
 README.md
 SandBox
 _site
-tips.md
-tmp
 UI
+
+./45UUD:
 
 ./assets:
 css
@@ -149,12 +149,6 @@ rektor
 index.html
 UI-SKR-2020-0496-Pengangkatan-Tim-Gabungan-4-Organ-untuk-Revisi-Statuta-UI.pdf
 UI-SKR-2020-1281-Tim-Revisi-Statuta-UI.pdf
-
-./tmp:
-_config.yml
-_layouts
-
-./tmp/_layouts:
 
 ./UI:
 index.md

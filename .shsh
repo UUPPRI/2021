@@ -42,7 +42,8 @@ EOF
 
 
 for II in \
-    ${README}.md \
+    ${README}.md  \
+    45UUD         \
     IDX           \
     KEPPRES       \
     PERPRES       \

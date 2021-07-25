@@ -12,9 +12,9 @@ Himpunan / Kumpulan Peraturan Negara Kesatuan Republik Indonesia (NKRI): Undang 
 | [INPRES](INPRES/)           | [Instruksi Presiden](INPRES/)    || [KEPMEN](KEPMEN/)           | [Keputusan Menteri](KEPMEN/) |
 | [KEPMENKO](KEPMENKO/)       | [KepMen Koordinator](KEPMENKO/)  || [KEPPRES](KEPPRES/)         | [Keputusan Presiden](KEPPRES/)            |
 | [KEPSESMENKO](KEPSESMENKO/) | [Kep. Sekr. MENKO](KEPSESMENKO/) || [MK](MK/)                   | [Mahkamah Konstitusi](MK/) |
-| [MPR](MPR/)             | [Majelis Permusyawatan Rakyat](MPR/) || [PERDA](PERDA/) | [Peraturan Daerah](PERDA/) |
-| [PERKA](PERKA/)             | [Peraturan Kepala](PERKA/)       || [PERMEN](PERMEN/)           | |
-| [PERMENKO](PERMENKO/)       |                                  || [PERPRES](PERPRES/)         | [Peraturan Presiden](PERPRES/)   |
+| [MPR](MPR/)             | [Majelis Permusyawatan Rakyat](MPR/) || [PERDA](PERDA/)             | [Peraturan Daerah](PERDA/) |
+| [PERKA](PERKA/)             | [Peraturan Kepala](PERKA/)       || [PERMEN](PERMEN/)           | [Peraturan Menteri](PERMEN/) |
+| [PERMENKO](PERMENKO/)       | [PerMen. Koordinator](PERMENKO/) || [PERPRES](PERPRES/)         | [Peraturan Presiden](PERPRES/)   |
 | [PERPU](PERPU/)             |                                  || [PNPS](PNPS/)               | |
 | [PP](PP/)                   | [Peraturan Pemerintah](PP/)      || [SKB](SKB/)                 | |
 | [UI](UI/)                   | [Universitas Indonesia](UI/)     || [UU](UU/)                   | |

@@ -29,6 +29,8 @@ MK
 MPR
 PERDA
 PERKA
+PERMEN
+PERMENKO
 PERPRES
 PP
 README.md
@@ -117,6 +119,10 @@ KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
 
 ./KEPSESMENKO:
 index.md
+POLHUKAM
+
+./KEPSESMENKO/POLHUKAM:
+index.md
 
 ./_layouts:
 layout.html
@@ -124,14 +130,28 @@ urls.html
 
 ./MK:
 index.md
+PUU
+
+./MK/PUU:
+index.md
 
 ./MPR:
 index.md
 
 ./PERDA:
+DKI
+index.md
+
+./PERDA/DKI:
 index.md
 
 ./PERKA:
+index.md
+
+./PERMEN:
+index.md
+
+./PERMENKO:
 
 ./PERPRES:
 index.md
@@ -164,6 +184,8 @@ Makefile
 MK
 MPR
 PERDA
+PERKA
+PERMEN
 PERPRES
 PP
 README.html
@@ -242,14 +264,32 @@ KEPPRES-2021-007-CUTI-BERSAMA-PEGAWAI-APARATUR-SIPIL-NEGARA-TAHUN-2O21.pdf
 
 ./_site/KEPSESMENKO:
 index.html
+POLHUKAM
+
+./_site/KEPSESMENKO/POLHUKAM:
+index.html
 
 ./_site/MK:
+index.html
+PUU
+
+./_site/MK/PUU:
 index.html
 
 ./_site/MPR:
 index.html
 
 ./_site/PERDA:
+DKI
+index.html
+
+./_site/PERDA/DKI:
+index.html
+
+./_site/PERKA:
+index.html
+
+./_site/PERMEN:
 index.html
 
 ./_site/PERPRES:

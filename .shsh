@@ -55,6 +55,7 @@ for II in \
     PERPRES       \
     PERDA         \
     PERKA         \
+    PERMEN        \
     PP            \
     UI            \
 ; do

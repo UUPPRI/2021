@@ -47,6 +47,7 @@ for II in \
     IDX           \
     INPRES        \
     KEPMEN        \
+    KEPMENKO      \
     KEPPRES       \
     PERPRES       \
     PP            \

@@ -19,6 +19,7 @@ _includes
 index.md
 INPRES
 KEPMEN
+KEPMENKO
 KEPPRES
 _layouts
 LICENSE
@@ -68,6 +69,7 @@ index.md
 ./KEPMEN:
 AGAMA
 DAGRI
+index.md
 KEMNAKER
 LU
 POLHUKAM
@@ -75,18 +77,30 @@ POLKAM
 SESNEG
 
 ./KEPMEN/AGAMA:
+index.md
 
 ./KEPMEN/DAGRI:
+index.md
 
 ./KEPMEN/KEMNAKER:
+index.md
 
 ./KEPMEN/LU:
+index.md
 
 ./KEPMEN/POLHUKAM:
+index.md
 
 ./KEPMEN/POLKAM:
+index.md
 
 ./KEPMEN/SESNEG:
+index.md
+
+./KEPMENKO:
+MARVES
+
+./KEPMENKO/MARVES:
 
 ./KEPPRES:
 index.md
@@ -118,6 +132,7 @@ favicon.ico
 IDX
 index.html
 INPRES
+KEPMEN
 KEPPRES
 LICENSE
 Makefile
@@ -153,6 +168,37 @@ index.html
 SEIDX-2021-013-Tampilan-Informasi-Perusahaan-Tercatat-pada-Kolom-Remarks-dalam-JATS.pdf
 
 ./_site/INPRES:
+index.html
+
+./_site/KEPMEN:
+AGAMA
+DAGRI
+index.html
+KEMNAKER
+LU
+POLHUKAM
+POLKAM
+SESNEG
+
+./_site/KEPMEN/AGAMA:
+index.html
+
+./_site/KEPMEN/DAGRI:
+index.html
+
+./_site/KEPMEN/KEMNAKER:
+index.html
+
+./_site/KEPMEN/LU:
+index.html
+
+./_site/KEPMEN/POLHUKAM:
+index.html
+
+./_site/KEPMEN/POLKAM:
+index.html
+
+./_site/KEPMEN/SESNEG:
 index.html
 
 ./_site/KEPPRES:

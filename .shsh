@@ -1,12 +1,12 @@
 #!/bin/bash
+# REV07: Tue 12 Oct 2021 11:08:17 WIB
 # REV06: Sun 25 Jul 2021 06:13:30 WIB
 # REV05: Wed 02 Jun 2021 09:07:44 WIB
-# REV04: Sat Oct 31 21:08:36 WIB 2020
-# REV03: Thu Oct 22 08:56:05 WIB 2020
-# REV02: Fri Feb  1 14:14:42 WIB 2019
-# START: Tue Dec 25 10:54:23 WIB 2018
+# REV04: Sat 31 Oct 2020 21:08:36 WIB
+# REV03: Thu 22 Oct 2020 08:56:05 WIB
+# START: Tue 25 Dec 2018 10:54:23 WIB
 
-# Copyright (C) 2018-2020 Rahmat M. Samik-Ibrahim http://RahmatM.Samik-Ibrahim.vLSM.org/
+# Copyright (C) 2018-2021 Rahmat M. Samik-Ibrahim http://RahmatM.Samik-Ibrahim.vLSM.org/
 # This program is free script/software. This program is distributed in the hope 
 # that it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -46,6 +46,7 @@ for II in \
     45UUD         \
     IDX           \
     INPRES        \
+    KEPDIRJEN     \
     KEPMEN        \
     KEPMENKO      \
     KEPSESMENKO   \

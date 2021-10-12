@@ -18,6 +18,7 @@ IDX
 _includes
 index.md
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -76,6 +77,14 @@ navbar-top.html
 scripts.html
 
 ./INPRES:
+index.md
+
+./KEPDIRJEN:
+DIKTI
+index.md
+
+./KEPDIRJEN/DIKTI:
+DIKTI-2021-012-PEDOMAN-OPERASIONAL-BEBAN-KERJA-DOSEN.pdf
 index.md
 
 ./KEPMEN:
@@ -275,6 +284,7 @@ favicon.ico
 IDX
 index.html
 INPRES
+KEPDIRJEN
 KEPMEN
 KEPMENKO
 KEPPRES
@@ -323,6 +333,14 @@ index.html
 SEIDX-2021-013-Tampilan-Informasi-Perusahaan-Tercatat-pada-Kolom-Remarks-dalam-JATS.pdf
 
 ./_site/INPRES:
+index.html
+
+./_site/KEPDIRJEN:
+DIKTI
+index.html
+
+./_site/KEPDIRJEN/DIKTI:
+DIKTI-2021-012-PEDOMAN-OPERASIONAL-BEBAN-KERJA-DOSEN.pdf
 index.html
 
 ./_site/KEPMEN:
@@ -515,6 +533,7 @@ MENPANRB
 
 ./_site/SKB/MENPANRB:
 index.html
+SKB-MEPANRB-2021-01b-HARI-LIBUR-NASIONAL-DAN-CUTI-BERSAMA-2021.pdf
 SKB-MEPANRB-2021-01-HARI-LIBUR-NASIONAL-DAN-CUTI-BERSAMA-2021.pdf
 
 ./_site/UI:

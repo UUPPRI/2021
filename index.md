@@ -10,7 +10,8 @@ Himpunan / Kumpulan Peraturan Negara Kesatuan Republik Indonesia (NKRI): Undang 
 | [2020](https://uuppri.github.io/2020/) | [2021](https://uuppri.github.io/2021/) || [2021](https://uuppri.github.io/2021/) | [2021](https://uuppri.github.io/2021/) |
 | [2021](https://uuppri.github.io/2021/) | [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/)  || [2021](https://uuppri.github.io/2021/) | [00-README-ls-alR](00-README-ls-alR.md) |
 | [UUD45](45UUD/)             | [Undang-Undang 1945](45UUD/)     || [IDX](IDX/)                 | [Indonesia Stock Exchange](IDX/)          |
-| [INPRES](INPRES/)           | [Instruksi Presiden](INPRES/)    || [KEPMEN](KEPMEN/)           | [Keputusan Menteri](KEPMEN/) |
+| [INPRES](INPRES/)           | [Instruksi Presiden](INPRES/)    || [KEPDIRJEN](KEPDIRJEN/)     | [Keputusan Direktur Jendral](KEPDIRJEN/)            |
+| [KEPMEN](KEPMEN/)           | [Keputusan Menteri](KEPMEN/)     ||
 | [KEPMENKO](KEPMENKO/)       | [KepMen Koordinator](KEPMENKO/)  || [KEPPRES](KEPPRES/)         | [Keputusan Presiden](KEPPRES/)            |
 | [KEPSESMENKO](KEPSESMENKO/) | [Kep. Sekr. MENKO](KEPSESMENKO/) || [MK](MK/)                   | [Mahkamah Konstitusi](MK/) |
 | [MPR](MPR/)             | [Majelis Permusyawatan Rakyat](MPR/) || [PERDA](PERDA/)             | [Peraturan Daerah](PERDA/) |

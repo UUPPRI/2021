@@ -1,20 +1,18 @@
 #!/bin/bash
-# REV07: Tue 12 Oct 2021 11:08:17 WIB
-# REV06: Sun 25 Jul 2021 06:13:30 WIB
-# REV05: Wed 02 Jun 2021 09:07:44 WIB
-# REV04: Sat 31 Oct 2020 21:08:36 WIB
-# REV03: Thu 22 Oct 2020 08:56:05 WIB
-# START: Tue 25 Dec 2018 10:54:23 WIB
+# REV03: Mon 17 Oct 2022 04:00
+# REV02: Mon 26 Jul 2021 10:00
+# START: Tue 25 Dec 2018 10:00
 
-# Copyright (C) 2018-2021 Rahmat M. Samik-Ibrahim http://RahmatM.Samik-Ibrahim.vLSM.org/
+# Copyright (C) 2018-2022 A.A. Al-Kulunia
 # This program is free script/software. This program is distributed in the hope 
 # that it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
+YEAR="2021"
 
 function mkidx {
     cd $1
-    printf -- '---\nlayout: "layout"\n---\n# 2021\n'      >  index.md
+    printf -- '---\nlayout: "layout"\n---\n# %s\n' $YEAR  >  index.md
     for II in $(ls) ; do
         [ "$II" == "index.md" ] && continue
         [ -f $II ] && echo "* [$II]($II)"       >> index.md
@@ -32,7 +30,7 @@ layout: "layout"
 ---
 
 <br>
-# 2021
+# $YEAR
 \`\`\`
 EOF
 ls -R >> ${README}.md
@@ -44,9 +42,9 @@ EOF
 for II in \
     ${README}.md  \
     45UUD         \
+    BI            \
     IDX           \
     INPRES        \
-    KEPDIRJEN     \
     KEPMEN        \
     KEPMENKO      \
     KEPSESMENKO   \

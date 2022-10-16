@@ -10,6 +10,7 @@ layout: "layout"
 45UUD
 about.md
 assets
+BI
 _config.yml
 favicon.ico
 Gemfile
@@ -28,6 +29,7 @@ LICENSE
 Makefile
 MK
 MPR
+navbar-top.html
 PERDA
 PERKA
 PERMEN
@@ -61,6 +63,9 @@ default.jpg
 
 ./assets/scripts:
 includeScript.py
+
+./BI:
+index.md
 
 ./IDX:
 index.md
@@ -280,6 +285,7 @@ PP-2021-075-Statuta-Universitas-Indonesia.pdf
 45UUD
 ABOUT
 assets
+BI
 favicon.ico
 IDX
 index.html
@@ -293,6 +299,7 @@ LICENSE
 Makefile
 MK
 MPR
+navbar-top.html
 PERDA
 PERKA
 PERMEN
@@ -327,6 +334,9 @@ default.jpg
 
 ./_site/assets/scripts:
 includeScript.py
+
+./_site/BI:
+index.html
 
 ./_site/IDX:
 index.html
@@ -551,6 +561,8 @@ index.html
 
 ./_site/UI/rektor:
 index.html
+UI-PR-005-Penyelenggaraan-Program-Magister-di-Universitas-Indonesia.pdf
+UI-PR-008-Penyelenggaraan-Program-Doktor-di-Universitas-Indonesia.pdf
 UI-SKR-2020-0496-Pengangkatan-Tim-Gabungan-4-Organ-untuk-Revisi-Statuta-UI.pdf
 UI-SKR-2020-1281-Tim-Revisi-Statuta-UI.pdf
 

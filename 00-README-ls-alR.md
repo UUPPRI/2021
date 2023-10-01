@@ -299,7 +299,6 @@ LICENSE
 Makefile
 MK
 MPR
-navbar-top.html
 PERDA
 PERKA
 PERMEN
@@ -336,6 +335,7 @@ default.jpg
 includeScript.py
 
 ./_site/BI:
+BI-PDAG-2021-23-PERUBAHAN-PDAG-ATAS-TENTANG-IMPLEMENTASI-STANDAR-NASIONAL-QUICK-RESPONSE-CODE-UNTUK-PEMBAYARAN.pdf
 index.html
 
 ./_site/IDX:

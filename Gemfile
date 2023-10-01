@@ -1,7 +1,7 @@
 source "https://rubygems.org/"
-gem 'jekyll-theme-hacker'
-gem 'faraday-retry'
-gem 'webrick'
-gem 'jekyll-sitemap'
 gem 'github-pages', group: :jekyll_plugins
+gem 'webrick'
+gem 'faraday-retry'
+# gem 'jekyll-sitemap'
+# gem 'jekyll-theme-hacker'
 

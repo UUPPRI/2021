@@ -8,7 +8,8 @@ layout: "layout"
 Himpunan / Kumpulan Peraturan Negara Kesatuan Republik Indonesia (NKRI): Undang Undang Dasar 1945 (UUD 45), Undang Undang (UU), Peraturan Pemerintah Pengganti Undang-Undang (PERPU), Peraturan Pemerintah (PP), Peraturan Menteri (PERMEN), Peraturan Presiden (PERPRES), Surat Keputusan (SK), dan Peraturan Universitas Indonesia (UI).
 
 | [2019](https://uuppri.github.io/2019/) | [2020](https://uuppri.github.io/2020/) || [2021](https://uuppri.github.io/2021/) | [2022](https://uuppri.github.io/2022/) |
-| [2022](https://uuppri.github.io/2022/) | [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/)  || [2022](https://uuppri.github.io/20212) | [00-README-ls-alR](00-README-ls-alR.md) |
+| [2023](https://uuppri.github.io/2023/) | [2024](https://uuppri.github.io/2024/) || [2024](https://uuppri.github.io/2024/) | [2024](https://uuppri.github.io/2024/) |
+| [2024](https://uuppri.github.io/2024/) | [Arsip Lama Peraturan NKRI](https://uu.vlsm.org/)  || [2024](https://uuppri.github.io/2024/) | [00-README-ls-alR](00-README-ls-alR.md) |
 | [BI](BI/) | [Bank Indonesia](BI/) || [IDX](IDX/)                 | [Indonesia Stock Exchange](IDX/)          |
 | [INPRES](INPRES/)           | [Instruksi Presiden](INPRES/)    || [KEPMEN](KEPMEN/)           | [Keputusan Menteri](KEPMEN/) |
 | [KEPMENKO](KEPMENKO/)       | [KepMen Koordinator](KEPMENKO/)  || [KEPPRES](KEPPRES/)         | [Keputusan Presiden](KEPPRES/)            |
